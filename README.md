@@ -1,4 +1,4 @@
-# Creditworthiness-Prediction-With-Machine-Learning
+# CreditworthinessPRedictionUsingML
 Predicting whether an applicant is credit-worthy or not.
 ### Project Objectives
 In this project, different **Machine Learning Models** are built and the best is selected to assist a bank that has received more loan applications
